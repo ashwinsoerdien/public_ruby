@@ -1,2 +1,2 @@
 # public_ruby
-My ruby scripts
+This repo contains  my ruby scripts  deemed for public consumption.
